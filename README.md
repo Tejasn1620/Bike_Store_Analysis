@@ -5,4 +5,4 @@ I used SQL for retrieving the required data from the company's Relational Databa
 
 Next , I used Excel to create Pivot Tables and also created a Sample Dashboard.
 
-FInally , I created a Interactive Dashboard using Tableau.
+FInally , I created an Interactive Dashboard using Tableau.
